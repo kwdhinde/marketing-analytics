@@ -34,6 +34,10 @@ Content Marketing
 
 Predictive B2B http://www.lattice-engines.com
 
+Bloggers
+  https://convertkit.com
+  And MailChimp
+
 ## Courses
 
 https://www.coursera.org/learn/digital-analytics
